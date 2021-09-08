@@ -1,0 +1,13 @@
+body {
+    background-color: paleturquoise;
+}
+
+div {
+    background-color: rgb(63, 63, 160);
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
