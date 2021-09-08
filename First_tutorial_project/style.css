@@ -6,8 +6,12 @@
 }
 
 .back {
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(133, 163, 22);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+}
+
+.access {
+    text-align: center;
 }
