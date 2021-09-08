@@ -1,47 +1,6 @@
-body {
-    background-color: #98abecdc;
-}
-
-hi {
-    font-size: 20pt;
-}
-
-h2 {
-    font-size: 24pt;
+.community {
+    font-size: 30px;
+    color: rgb(16, 105, 75);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    color: #5b29cedc;
-}
-
-div {
-    background-color: #244a83dc;
-}
-
-img {
-    border-top: #c2c7cfdc;
-    border-radius: 100%;
-    width: "300px";
-    border: "2px;
- solid gray";
- padding="10px";
-}
-
-.first {
-    font-style: italic;
-    color: rgb(223, 114, 114);
-}
-
-.second {
-    font-style: oblique;
-    color: rgb(196, 118, 55);
-}
-
-#third {
-    background-color: rgb(59, 90, 177);
-}
-
-[title] {
-    cursor: help;
-    padding-bottom: 10px;
-    border-bottom: 5px dotted whitesmoke;
-    /* text-decoration: none; */
 }
