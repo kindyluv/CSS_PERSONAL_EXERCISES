@@ -1,0 +1,16 @@
+#type {
+    border-radius: 50;
+}
+
+#row {
+    background-color: bisque;
+    display: flex;
+}
+
+#col {
+    background-color: blanchedalmond;
+}
+
+#body {
+    background-color: rgb(150, 145, 140);
+}
